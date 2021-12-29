@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0184ca0-9ce4-42b5-87fb-1aa7a03af9da": {
+      "ProjectGuid": "b0184ca0-9ce4-42b5-87fb-1aa7a03af9da",
+      "DisplayName": "SQLLiteCountry",
+      "ColorIndex": 0
+    },
+    "5ee3d40a-9f8d-430a-9ff3-81053916661a": {
+      "ProjectGuid": "5ee3d40a-9f8d-430a-9ff3-81053916661a",
+      "DisplayName": "SQLLiteProducts",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

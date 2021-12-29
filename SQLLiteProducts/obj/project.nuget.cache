@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFh4wY5kUenOX7uNljk90DmQuGJOKmpkP9e+U/SZol2AZOdEZc9YMDmGPaBTobA4xdAjmSL9+GWvuwS+zoQUUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanel\\source\\repos\\SQLLiteCountry\\SQLLiteProducts\\SQLLiteProducts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanel\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\tanel\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}

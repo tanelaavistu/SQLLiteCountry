@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLLiteCountry", "SQLLiteCountry\SQLLiteCountry.csproj", "{B0184CA0-9CE4-42B5-87FB-1AA7A03AF9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLLiteProducts", "SQLLiteProducts\SQLLiteProducts.csproj", "{5EE3D40A-9F8D-430A-9FF3-81053916661A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0184CA0-9CE4-42B5-87FB-1AA7A03AF9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0184CA0-9CE4-42B5-87FB-1AA7A03AF9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0184CA0-9CE4-42B5-87FB-1AA7A03AF9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0184CA0-9CE4-42B5-87FB-1AA7A03AF9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE3D40A-9F8D-430A-9FF3-81053916661A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE3D40A-9F8D-430A-9FF3-81053916661A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE3D40A-9F8D-430A-9FF3-81053916661A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE3D40A-9F8D-430A-9FF3-81053916661A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D60AE0-5EA1-401D-89D1-77B64C9E553A}
+	EndGlobalSection
+EndGlobal
